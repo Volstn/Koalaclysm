@@ -1,8 +1,6 @@
-## Koalaclysm
+# Koalaclysm
  ![Image](https://github.com/Volstn/Koalaclysm/blob/master/menuFInal.PNG)
 
-
-### Markdown
 
 
 ### Bug Report
