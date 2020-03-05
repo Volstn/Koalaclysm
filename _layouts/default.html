@@ -29,7 +29,11 @@
         {% endif %}
       </div>
     </header>
-
+    <style>
+      img {
+      border:5px solid blue;
+      }
+    </style>
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
@@ -39,7 +43,6 @@
         <aside id="sidebar">
 
           <img src="{{site.url}}/images/menuFInal.PNG" alt="Main_Menu" width="350" height="220" border="5"/>
-                    <img style="border:5px solid black">
           <img src="{{site.url}}/images/donatebutton_orig.png" alt="Donate_Button" width="128" height="128"/>
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
