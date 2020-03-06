@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Privacy Policy"
-permalink: https://koalaclysm.com/PrivacyPolicy
+permalink:/PrivacyPolicy/
 ---
 
 ## Privacy Policy
