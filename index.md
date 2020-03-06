@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Help Save the Koalas!
-Sam is the last surviving koalanaut and his home on mars is under attack by hordes of evil space aliens. It's your job to help him fight them off. Unlock power-ups to give Sam the strenght he needs as he flips through the martian atmosphere to defend his home. The more aliens you defeat the stronger Sam can become! He can even visit a variety of different environments.
+Sam is the last surviving Koalanaut and his home on Mars is under attack by hordes of evil space aliens. It's your job to help him fight them off. Unlock power-ups to give Sam the strenght he needs as he flips through the Martian atmosphere to defend his home. The more aliens you defeat the stronger Sam can become! He can even visit a variety of different environments.
 
 
 ## How can you help?
