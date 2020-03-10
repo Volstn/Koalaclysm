@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-{% include google_analytics.html %}
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset='utf-8'>
@@ -76,5 +75,6 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+   {% include google_analytics.html %}
   </body>
 </html>
