@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Privacy Policy IOS"
+permalink: /PrivacyPolicyIOS/
+---
 ## Privacy Policy
 
 Jack Kincaid built the Koalaclysm app as a Free app. This SERVICE is provided by Jack Kincaid at no cost and is intended for use as is.
