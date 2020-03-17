@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Privacy Policy"
-permalink: /PrivacyPolicy/
+permalink: /PrivacyPolicyAndroid/
 ---
 
 ## Privacy Policy
