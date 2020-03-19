@@ -16,7 +16,7 @@ Koalaclysm is super simple! It can be played with just a single touch. The goal 
 Coming Soon
 
 ### Download from App Store
-Coming Soon
+https://apps.apple.com/us/app/koalaclysm/id1500965268
 
 ### Bug Report
 Discovered a bug in Koalaclysm? Please don't hesitate to email: volstngaming@gmail.com. All input is appreciated!
