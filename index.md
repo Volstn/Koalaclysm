@@ -13,7 +13,7 @@ Wildlife all over Australia has been devastated from recent fires, droughts, and
 Koalaclysm is super simple! It can be played with just a single touch. The goal is to prevent the aliens from reaching the base in the middle. To do this you control the movements of Sam by tapping on the screen. You can tap and hold to aim and release to send Sam flipping through the air towards his target. You can also tap once while Sam is in the air to give him an extra boost of speed. The more hits your base takes the more damaged it will appear. Once your base is destroyed the game is over!
 
 ### Download from Google Play Store
-Coming Soon
+[Download Here!](https://play.google.com/store/apps/details?id=com.koalaclysm)
 
 ### Download from App Store
 [Download Here (US)!](https://apps.apple.com/us/app/koalaclysm/id1500965268)
